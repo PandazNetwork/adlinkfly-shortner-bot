@@ -20,11 +20,11 @@ if (strpos($text, '/start') === 0) {
     // Handle /start command
     $keyboard = [
         [
-            ['text' => 'Updates Channel', 'url' => 'https://t.me/your_updates_channel'],
-            ['text' => 'Support Group', 'url' => 'https://t.me/your_support_group']
+            ['text' => '🎁 Updates Channel', 'url' => 'https://t.me/pandazbots'],
+            ['text' => '⚡️ Support Group', 'url' => 'https://t.me/pandazbotsgroup']
         ],
         [
-            ['text' => 'Deploy', 'url' => 'https://github.com/pandaznetwork/Adlinkflyshortnerbot']
+            ['text' => '❤️ Source Code', 'url' => 'https://github.com/PandazNetwork/adlinkfly-shortner-bot']
         ]
     ];
 
