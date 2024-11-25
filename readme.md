@@ -27,5 +27,5 @@ A simple and efficient Telegram bot that shortens URLs using the Adlinkfly Short
 1. Setup Webhook
 - Open this manually on browser by filling you details in the link
    ```bash
-   https://api.telegram.org/bot<YOUR_BOT_TOKEN>/setWebhook?url=https://yourdomain.com/terabox.php
+   https://api.telegram.org/bot<YOUR_BOT_TOKEN>/setWebhook?url=https://yourdomain.com/shortner.php
 - Replace <BOT_TOKEN> from the terabox.php in line 3, Save file and its done 👍
