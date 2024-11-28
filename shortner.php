@@ -30,7 +30,7 @@ if (strpos($text, '/start') === 0) {
 
     $response = [
         'chat_id' => $chat_id,
-        'text' => "ðŸ‘‹ Hello!\n\nI'm your link shortener bot. Just send me a link, and I'll shorten it for you!",
+        'text' => "⚡️ Hello!\n\nI'm your link shortener bot. Just send me a link, and I'll shorten it for you!",
         'reply_markup' => json_encode(['inline_keyboard' => $keyboard])
     ];
 
