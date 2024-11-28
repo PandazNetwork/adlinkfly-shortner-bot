@@ -30,3 +30,6 @@ A simple and efficient Telegram bot that shortens URLs using the Adlinkfly Short
 
    ```bash
    https://api.telegram.org/bot<YOUR_BOT_TOKEN>/setWebhook?url=https://yourdomain.com/shortner.php
+
+[![Watch the video](https://img.youtube.com/vi/nVH8_oZkJRE/maxresdefault.jpg)](https://youtu.be/nVH8_oZkJRE)
+
